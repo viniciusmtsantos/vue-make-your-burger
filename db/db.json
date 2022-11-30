@@ -119,6 +119,28 @@
       ],
       "status": "Solicitado",
       "id": 5
+    },
+    {
+      "nome": "Pedro",
+      "carne": "Veggie burger",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cebola roxa",
+        "Pepino"
+      ],
+      "status": "Solicitado",
+      "id": 6
+    },
+    {
+      "nome": "Luiz",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Tomate",
+        "Salame"
+      ],
+      "status": "Finalizado",
+      "id": 7
     }
   ]
 }
